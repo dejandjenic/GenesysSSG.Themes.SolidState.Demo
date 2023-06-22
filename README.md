@@ -1,1 +1,0 @@
-# GenesysSSG.Themes.SolidState.Demo
